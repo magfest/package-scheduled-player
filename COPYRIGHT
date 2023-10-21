@@ -101,6 +101,16 @@ frab/dependencies.zip/defusedxml
     PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
     https://github.com/tiran/defusedxml
 
+guidebook/dependencies.zip/dateutil:
+    MIT License
+    Copyright 2017- Paul Ganssle <paul@ganssle.io>
+    Copyright 2017- dateutil contributors (see AUTHORS file)
+    https://github.com/dateutil/dateutil/
+
+guidebook/dependencies.zip/defusedxml
+    PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
+    https://github.com/tiran/defusedxml
+
 twitter/default-font.ttf
     based on
         https://github.com/MorbZ/OpenSansEmoji

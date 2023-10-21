@@ -116,7 +116,7 @@ This package can work offline, but only if some features are not used:
  is possible to use a hardware based RTC to store time across reboots.
  See [here](https://info-beamer.com/doc/device-configuration#pcf8523rtc).
  * Anything using remote content will not work. This includes the browser,
- frab and streaming abilities.
+ frab, guidebook, and streaming abilities.
 
 ## Changelog
 
